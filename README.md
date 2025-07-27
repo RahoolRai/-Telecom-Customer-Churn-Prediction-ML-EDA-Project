@@ -63,7 +63,7 @@ To reduce churn, telecom companies should:
 ---
 
 ## 📁 Project Files  
-- `telecom-churn-prediction.ipynb`: Main Jupyter Notebook with full analysis and modeling  
+- `telecom-churn-prediction.ipynb`: Main Google Colab with full analysis and modeling  
 - `plots/`: Folder containing EDA charts and model visuals  
 - `model.pkl`: Trained model file (for deployment)
 
